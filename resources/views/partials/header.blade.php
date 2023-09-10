@@ -5,7 +5,7 @@
     <button class="user-menu-button" id="user_menu_btn">
         <span class="user-menu-name">{{ Auth::user()->name }} <i class="icon-chevron-down"></i></span>
         <span class="user-menu-avatar">
-            <img src="/images/user/ramono.jpg" width="36" height="36" alt="Default avatar"/>
+            <img src="/images/default-avatar.png.jpg" width="36" height="36" alt="Default avatar"/>
         </span>
     </button>
 

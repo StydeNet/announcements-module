@@ -1,7 +1,7 @@
 <nav class="main-nav" id="menu">
     <header class="side-head">
         <a href="{{ route('dashboard' )}}" class="logo">
-            <span>East Hills HOA</span>
+            <span>HOA System</span>
         </a>
         <button class="menu-toggle" aria-label="Toggle menu" title="Toggle menu" id="menu_btn">
             <i class="icon-menu"></i>
